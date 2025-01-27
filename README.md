@@ -33,10 +33,7 @@ This project focuses on analyzing and predicting the number of **unique visits**
 6. **Forecasting**  
    - Predicted `Unique.Visits` for the next **100 days**, capturing seasonal trends consistent with historical data.
 
-### Key Results
-- The SARIMA model successfully captured **seasonality**, **trends**, and **residuals** of the time series.  
-- Residual diagnostics confirmed the model's reliability, with errors following a normal distribution.  
-
+ 
 ## Conclusion
-This project demonstrates the effective use of SARIMA for analyzing and forecasting time series data with strong seasonal components. It provides a robust framework for tackling similar predictive analytics problems.
+The SARIMA model successfully captured **seasonality**, **trends**, and **residuals** of the time series. Residual diagnostics confirmed the model's reliability, with errors following a normal distribution. This project demonstrates the effective use of SARIMA for analyzing and forecasting time series data with strong seasonal components. It provides a robust framework for tackling similar predictive analytics problems.
 
