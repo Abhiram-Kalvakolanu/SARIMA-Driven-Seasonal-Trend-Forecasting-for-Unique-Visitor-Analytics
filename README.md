@@ -1,6 +1,8 @@
-<img src="https://github.com/user-attachments/assets/d10a9355-7fab-4aed-b9c7-37dacbafd66b" alt="Image" width="400"/>
 
 # SARIMA-Driven Seasonal Trend Forecasting for Unique Visitor Analytics
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d10a9355-7fab-4aed-b9c7-37dacbafd66b" alt="Image" width="500"/>
+</p>
 
 ## Project Description
 This project focuses on analyzing and predicting the number of **unique visits** to an online shop using **time series data**. The dataset includes features such as `Day`, `Day.Of.Week`, `Date`, `Page.Loads`, `Unique.Visits`, `First.Time.Visits`, and `Returning.Visits`, with `Unique.Visits` as the target variable.
