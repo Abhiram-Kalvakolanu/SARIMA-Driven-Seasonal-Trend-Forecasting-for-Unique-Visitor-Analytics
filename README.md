@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/d10a9355-7fab-4aed-b9c7-37dacbafd66b" alt="Image" width="400"/>
+
 # SARIMA-Driven Seasonal Trend Forecasting for Unique Visitor Analytics
 
 ## Project Description
